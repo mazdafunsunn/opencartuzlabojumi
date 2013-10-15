@@ -1,0 +1,5 @@
+D:\www\opencart\catalog\model\tool\image.php
+return $filename;
+instead of 
+return;
+tas lai attēlotu bildes no ārējiem avotiem (URL)
